@@ -111,7 +111,7 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
     <td align="center">
       <img src="./images/금희.webp" width="300"/><br>
       <b>양금희</b><br>
-      ERD
+      db, streamlit, crawling
     </td>
     <td align="center">
       <img src="./images/하경.webp" width="300"/><br>
