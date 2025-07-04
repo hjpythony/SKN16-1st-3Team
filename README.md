@@ -114,7 +114,25 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
 
 # 🛠 기술 스택
 <br>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/><br>Streamlit
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>MySQL
+    </td>
+  </tr>
+</table>
 
 # 📄 화면 설계서
 <br>
