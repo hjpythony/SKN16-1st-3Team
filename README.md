@@ -177,7 +177,7 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
 
 ### 📍 4. 지역별 전기차 등록 대수 및 충전기 개수 비교
 
-<img src="./images/pages/1111.webp" width="600"/>
+<img src="./images/pages/1111.png" width="600"/>
 
 
 ---
