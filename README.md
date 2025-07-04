@@ -190,9 +190,9 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
 
 ### 📍 6. 전기차 제조사 고객 FAQ 분석
 
-<img src="./images/pages/faq-1.png" width="300"/>
-<img src="./images/pages/faq-2.png" width="300"/>
-<img src="./images/pages/faq-3.png" width="300"/>
+<img src="./images/pages/faq-1.png" width="600"/>
+<img src="./images/pages/faq-2.png" width="600"/>
+<img src="./images/pages/faq-3.png" width="600"/>
 
 
 # 🖊 개발 과정에서 발생한 이슈 및 해결 방법
