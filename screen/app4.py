@@ -30,8 +30,8 @@ def show_page_4():
   conn.executescript(sql_script)
 
   # 쿼리 실행 후 데이터프레임으로 변환
-  df_charger = pd.read_sql_query('SELECT * FROM charger', conn)
-  df_ev = pd.read_sql_query('SELECT * FROM ev', conn)
+  df_charger = pd.read_sql_query('SELECT * FROM charger where year=2024 and month =12', conn)
+  df_ev = pd.read_sql_query('SELECT * FROM ev where year=2024 and month =12', conn)
 
   print(df_charger.head())
 
@@ -78,7 +78,7 @@ def show_page_4():
   fig.update_traces(texttemplate='%{text:.4f}', textposition='outside')
   fig.update_layout(
       title={
-          'text': '전체 기간 누적 기준 - 지역별 차량당 충전기 수',
+          'text': '2024년 12월기준 - 지역별 차량당 충전기 수',
           'x': 0.5,
           'xanchor': 'left',
           'font': dict(
