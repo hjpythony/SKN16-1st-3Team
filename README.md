@@ -143,6 +143,45 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
 
 # 💻 실제 화면
 <br>
+### 📍 1. 지역별 전기차 수용성 지도 시각화
+
+<img src="./images/map3-1.png" width="600"/>
+<img src="./images/map3-2.png" width="600"/>
+
+---
+
+### 📍 2. 연도별 지역별 비율 시각화 (Pie Chart)
+
+<img src="./images/pie1-1.png" width="400"/>
+<img src="./images/pie1-2.png" width="400"/>
+
+---
+
+### 📍 3. 지역별 전기차 수 & 충전소 수 (이중 막대 그래프)
+
+<img src="./images/width4-1.png" width="600"/>
+<img src="./images/width4-2.png" width="600"/>
+
+---
+
+### 📍 4. 차량당 충전소 비율 (수평 막대 그래프)
+
+<img src="./images/length2.png" width="600"/>
+
+---
+
+### 📍 5. 연도별 전기차 vs 충전소 증가 추이 (선 그래프)
+
+<img src="./images/line5.png" width="600"/>
+
+---
+
+### 📍 6. 전기차 제조사 고객 FAQ 분석
+
+<img src="./images/faq-1.png" width="300"/>
+<img src="./images/faq-2.png" width="300"/>
+<img src="./images/faq-3.png" width="300"/>
+
 
 # 🖊 개발 과정에서 발생한 이슈 및 해결 방법
 <br> **Streamlit 통합 과정의 충돌 및 구조 정리 문제**
