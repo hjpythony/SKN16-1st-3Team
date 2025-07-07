@@ -116,7 +116,7 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
     <td align="center">
       <img src="./images/하경.webp" width="300"/><br>
       <b>차하경</b><br>
-      Streamlit
+      MySQL, Streamlit, Python
     </td>
     <td></td> <!-- 빈칸 -->
   </tr>
