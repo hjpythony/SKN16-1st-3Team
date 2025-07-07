@@ -94,7 +94,7 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
     <td align="center">
       <img src="./images/현진.webp" width="300"/><br>
       <b>강현진</b><br>
-      팀장
+      팀장, MySQL, Streamlit, Python
     </td>
     <td align="center">
       <img src="./images/나은.webp" width="300"/><br>
